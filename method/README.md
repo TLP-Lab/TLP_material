@@ -66,9 +66,9 @@ TLP 在实际场景中广泛应用于：
 
 ### Suvey Papers (其他方法可参考一下综述论文)
 
-19. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
+20. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
 
-20. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [[`pdf`](https://arxiv.org/pdf/2502.21185)]
+21. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [[`pdf`](https://arxiv.org/pdf/2502.21185)]
 
 
 
