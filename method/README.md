@@ -55,7 +55,7 @@ TLP 在实际场景中广泛应用于：
 15. Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs (VLDB'2023)
 [[`pdf`](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)] [[`code`](https://github.com/janetlayne2/Temporal-SIR-GN)]
 
-16. Towards better dynamic graph learning: New architecture and unified library (NeurIPS'2023) [[`pdf`](https://arxiv.org/pdf/2303.13047)] [[`code`](hhttps://github.com/yule-BUAA/DyGLib)]
+16. Towards better dynamic graph learning: New architecture and unified library (NeurIPS'2023) [[`pdf`](https://arxiv.org/pdf/2303.13047)] [[`code`](https://github.com/yule-BUAA/DyGLib)]
 
 17. When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction (VLDB'2025)
 [[`pdf`](https://arxiv.org/pdf/2507.13825)] [[`code`](https://github.com/TreeAI-Lab/EAGLE)]
