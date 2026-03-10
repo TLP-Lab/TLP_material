@@ -60,15 +60,15 @@ TLP 在实际场景中广泛应用于：
 17. When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction (VLDB'2025)
 [[`pdf`](https://arxiv.org/pdf/2507.13825)] [[`code`](https://github.com/TreeAI-Lab/EAGLE)]
 
-19.  Node-Time Conditional Prompt Learning in Dynamic Graphs (ICLR'2025) [[`pdf`'](https://openreview.net/pdf?id=kVlfYvIqaK)] [[`code`](https://github.com/gmcmt/DyGPrompt)] 
+19.  Node-Time Conditional Prompt Learning in Dynamic Graphs (ICLR'2025) [[`pdf`](https://openreview.net/pdf?id=kVlfYvIqaK)] [[`code`](https://github.com/gmcmt/DyGPrompt)] 
 
-18. Data-centric Prompt Tuning for Dynamic Graphs (CIKM'2025) [[`pdf`'](https://arxiv.org/html/2601.11954v1)] [[`code`](https://github.com/astral-requiem/DDGPrompt)] 
+18. Data-centric Prompt Tuning for Dynamic Graphs (CIKM'2025) [[`pdf`](https://arxiv.org/html/2601.11954v1)] [[`code`](https://github.com/astral-requiem/DDGPrompt)] 
 
 ### Suvey Papers (其他方法可参考一下综述论文)
 
-19. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`'](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
+19. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
 
-20. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [[`pdf`'](https://arxiv.org/pdf/2502.21185)]
+20. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [[`pdf`](https://arxiv.org/pdf/2502.21185)]
 
 
 
