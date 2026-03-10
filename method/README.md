@@ -17,11 +17,11 @@ TLP 在实际场景中广泛应用于：
 
 | 类别 | 特点 | 代表方法 |
 |---|---|---|
-| Snapshot-based（离散时间） | 将动态图拆成离散时间片，使用序列模型建模 | EvolveGCN[5], DynGEM[2], DySAT[6] |
+| Discrete-time（离散时间） | 将动态图拆成离散时间片，使用序列模型建模 | EvolveGCN[5], DynGEM[2], DySAT[6] |
 | Continuous-time（连续时间） | 使用事件级时间戳建模，每条边带时间 | TGN[12], JODIE[10], TGAT[11] |
 
 ## References
-### Snapshot-based TLP Modeling
+### Discrete TLP modeling
 1. Dynamic Network Embedding by Modelling Triadic Closure Process (AAAI'2018) [[`pdf`](https://dl.acm.org/doi/pdf/10.5555/3504035.3504106)] [[`code`](https://github.com/luckiezhou/DynamicTriad)] 
 
 2. DynamicGEM: A Library for Dynamic Graph Embedding Methods [[`pdf`](https://arxiv.org/pdf/1811.10734)] [[`code`](https://github.com/palash1992/DynamicGEM)]
@@ -39,7 +39,7 @@ TLP 在实际场景中广泛应用于：
 
 8. HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (WWW'2023) [[`pdf`](https://arxiv.org/pdf/2304.07302)] [[`code`](https://github.com/TaiLvYuanLiang/HGWaveNet)]
 
-### Continue-time TLP Modeling
+### Continue-time TLP modeling
 9. Continuous-Time Dynamic Network Embeddings (WWW'2018) [[`pdf`](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)] [[`code`](https://github.com/LogicJake/CTDNE)]
 
 10. Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (KDD'2019) [[`pdf`](https://dl.acm.org/doi/epdf/10.1145/3292500.3330895)] [[`code`](https://github.com/claws-lab/jodie)]
@@ -64,7 +64,7 @@ TLP 在实际场景中广泛应用于：
 
 19. Data-centric Prompt Tuning for Dynamic Graphs (CIKM'2025) [[`pdf`](https://arxiv.org/html/2601.11954v1)] [[`code`](https://github.com/astral-requiem/DDGPrompt)] 
 
-### Suvey Papers (其他方法可参考一下综述论文)
+### Suvey papers (其他方法可参考一下综述论文)
 
 20. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
 
