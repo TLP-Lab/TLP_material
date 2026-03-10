@@ -21,7 +21,7 @@ TLP 在实际场景中广泛应用于：
 | Continuous-time（连续时间） | 使用事件级时间戳建模，每条边带时间 | TGN[12], JODIE[10], TGAT[11] |
 
 ## References
-### Discrete TLP modeling
+### Discrete-time TLP modeling
 1. Dynamic Network Embedding by Modelling Triadic Closure Process (AAAI'2018) [[`pdf`](https://dl.acm.org/doi/pdf/10.5555/3504035.3504106)] [[`code`](https://github.com/luckiezhou/DynamicTriad)] 
 
 2. DynamicGEM: A Library for Dynamic Graph Embedding Methods [[`pdf`](https://arxiv.org/pdf/1811.10734)] [[`code`](https://github.com/palash1992/DynamicGEM)]
