@@ -17,8 +17,8 @@ TLP 在实际场景中广泛应用于：
 
 | 类别 | 特点 | 代表方法 |
 |---|---|---|
-| Snapshot-based（离散时间） | 将动态图拆成离散时间片，使用序列模型建模 | 代表：EvolveGCN[5], DynGEM[2], DySAT[6] |
-| Continuous-time（连续时间） | 使用事件级时间戳建模，每条边带时间 | 代表：TGN[12], JODIE[10], TGAT[11] |
+| Snapshot-based（离散时间） | 将动态图拆成离散时间片，使用序列模型建模 | EvolveGCN[5], DynGEM[2], DySAT[6] |
+| Continuous-time（连续时间） | 使用事件级时间戳建模，每条边带时间 | TGN[12], JODIE[10], TGAT[11] |
 
 ## References
 ### Snapshot-based TLP Modeling
