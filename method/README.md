@@ -22,53 +22,53 @@ TLP 在实际场景中广泛应用于：
 
 ## References
 ### Snapshot-based TLP Modeling
-1. Dynamic Network Embedding by Modelling Triadic Closure Process (AAAI'2018) [[`pdf`](https://dl.acm.org/doi/pdf/10.5555/3504035.3504106)] [['code'](https://github.com/luckiezhou/DynamicTriad)] 
+1. Dynamic Network Embedding by Modelling Triadic Closure Process (AAAI'2018) [[`pdf`](https://dl.acm.org/doi/pdf/10.5555/3504035.3504106)] [[`code`](https://github.com/luckiezhou/DynamicTriad)] 
 
-2. DynamicGEM: A Library for Dynamic Graph Embedding Methods [[`pdf`](https://arxiv.org/pdf/1811.10734)] [['code'](https://github.com/palash1992/DynamicGEM)]
+2. DynamicGEM: A Library for Dynamic Graph Embedding Methods [[`pdf`](https://arxiv.org/pdf/1811.10734)] [[`code`](https://github.com/palash1992/DynamicGEM)]
 
-3. Structured Sequence Modeling with Graph Convolutional Recurrent Networks (ICONIP'2018) [[`pdf`](https://arxiv.org/pdf/1612.07659)] [['code'](https://github.com/youngjoo-epfl/gconvRNN)]
+3. Structured Sequence Modeling with Graph Convolutional Recurrent Networks (ICONIP'2018) [[`pdf`](https://arxiv.org/pdf/1612.07659)] [[`code`](https://github.com/youngjoo-epfl/gconvRNN)]
 
-4. Variational graph recurrent neural networks (NeurIPS'2019) [[`pdf`](https://arxiv.org/pdf/1908.09710)] [['code'](https://github.com/VGraphRNN/VGRNN)]
+4. Variational graph recurrent neural networks (NeurIPS'2019) [[`pdf`](https://arxiv.org/pdf/1908.09710)] [[`code`](https://github.com/VGraphRNN/VGRNN)]
 
-5. Evolvegcn: Evolving graph convolutional networks for dynamic graphs (AAAI'2020) [[`pdf`](https://arxiv.org/pdf/1902.10191)] [['code'](https://github.com/IBM/EvolveGCN)] 
+5. Evolvegcn: Evolving graph convolutional networks for dynamic graphs (AAAI'2020) [[`pdf`](https://arxiv.org/pdf/1902.10191)] [[`code`](https://github.com/IBM/EvolveGCN)] 
 
-6. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self‑Attention Networks (ICLR'2020) [[`pdf`](https://arxiv.org/pdf/1812.09430)] [['code'](https://github.com/aravindsankar28/DySAT)]
+6. DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self‑Attention Networks (ICLR'2020) [[`pdf`](https://arxiv.org/pdf/1812.09430)] [[`code`](https://github.com/aravindsankar28/DySAT)]
 
 7. Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (KDD'2021)
-[[`pdf`](https://arxiv.org/pdf/2107.03767)] [['code'](https://github.com/marlin-codes/HTGN)]
+[[`pdf`](https://arxiv.org/pdf/2107.03767)] [[`code`](https://github.com/marlin-codes/HTGN)]
 
-8. HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (WWW'2023) [[`pdf`](https://arxiv.org/pdf/2304.07302)] [['code'](https://github.com/TaiLvYuanLiang/HGWaveNet)]
+8. HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (WWW'2023) [[`pdf`](https://arxiv.org/pdf/2304.07302)] [[`code`](https://github.com/TaiLvYuanLiang/HGWaveNet)]
 
 ### Continue-time TLP Modeling
-9. Continuous-Time Dynamic Network Embeddings (WWW'2018) [['pdf'](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)] [['code'](https://github.com/LogicJake/CTDNE)]
+9. Continuous-Time Dynamic Network Embeddings (WWW'2018) [[`pdf`](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)] [[`code`](https://github.com/LogicJake/CTDNE)]
 
-10. Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (KDD'2019) [['pdf'](https://dl.acm.org/doi/epdf/10.1145/3292500.3330895)] [['code'](https://github.com/claws-lab/jodie)]
+10. Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (KDD'2019) [[`pdf`](https://dl.acm.org/doi/epdf/10.1145/3292500.3330895)] [[`code`](https://github.com/claws-lab/jodie)]
 
-11. Inductive Representation Learning on Temporal Graphs (ICLR'2020) [['pdf](https://arxiv.org/pdf/2002.07962)] [['code'](https://github.com/dongkwan-kim/TGAT-REF)]
+11. Inductive Representation Learning on Temporal Graphs (ICLR'2020) [[`pdf`](https://arxiv.org/pdf/2002.07962)] [[`code`](https://github.com/dongkwan-kim/TGAT-REF)]
 
-12. Temporal Graph Networks for Deep Learning on Dynamic Graphs (ICML'2020) [['pdf](https://arxiv.org/pdf/2006.10637)] [['code'](https://github.com/twitter-research/tgn)]
+12. Temporal Graph Networks for Deep Learning on Dynamic Graphs (ICML'2020) [[`pdf`](https://arxiv.org/pdf/2006.10637)] [[`code`](https://github.com/twitter-research/tgn)]
 
-13. Do We Really Need Complicated Model Architectures For Temporal Networks (ICLR'2023) [['pdf](https://arxiv.org/pdf/2302.11636)] [['code'](https://github.com/CongWeilin/GraphMixer)]
+13. Do We Really Need Complicated Model Architectures For Temporal Networks (ICLR'2023) [[`pdf`](https://arxiv.org/pdf/2302.11636)] [[`code`](https://github.com/CongWeilin/GraphMixer)]
 
-14. Zebra: When temporal graph neural networks meet temporal personalized PageRank (VLDB'2023) [['pdf](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)] [['code'](https://github.com/LuckyLYM/Zebra)]
+14. Zebra: When temporal graph neural networks meet temporal personalized PageRank (VLDB'2023) [[`pdf`](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)] [[`code`](https://github.com/LuckyLYM/Zebra)]
 
 15. Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs (VLDB'2023)
-[['pdf](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)] [['code'](https://github.com/janetlayne2/Temporal-SIR-GN)]
+[[`pdf`](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)] [[`code`](https://github.com/janetlayne2/Temporal-SIR-GN)]
 
-16. Towards better dynamic graph learning: New architecture and unified library (NeurIPS'2023) [['pdf](https://arxiv.org/pdf/2303.13047)] [['code'](hhttps://github.com/yule-BUAA/DyGLib)]
+16. Towards better dynamic graph learning: New architecture and unified library (NeurIPS'2023) [[`pdf`](https://arxiv.org/pdf/2303.13047)] [[`code`](hhttps://github.com/yule-BUAA/DyGLib)]
 
 17. When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction (VLDB'2025)
-[['pdf](https://arxiv.org/pdf/2507.13825)] [['code'](https://github.com/TreeAI-Lab/EAGLE)]
+[[`pdf`](https://arxiv.org/pdf/2507.13825)] [[`code`](https://github.com/TreeAI-Lab/EAGLE)]
 
-19.  Node-Time Conditional Prompt Learning in Dynamic Graphs (ICLR'2025) [['pdf'](https://openreview.net/pdf?id=kVlfYvIqaK)] [['code'](https://github.com/gmcmt/DyGPrompt)] 
+19.  Node-Time Conditional Prompt Learning in Dynamic Graphs (ICLR'2025) [[`pdf`'](https://openreview.net/pdf?id=kVlfYvIqaK)] [[`code`](https://github.com/gmcmt/DyGPrompt)] 
 
-18. Data-centric Prompt Tuning for Dynamic Graphs (CIKM'2025) [['pdf'](https://arxiv.org/html/2601.11954v1)] [['code'](https://github.com/astral-requiem/DDGPrompt)] 
+18. Data-centric Prompt Tuning for Dynamic Graphs (CIKM'2025) [[`pdf`'](https://arxiv.org/html/2601.11954v1)] [[`code`](https://github.com/astral-requiem/DDGPrompt)] 
 
 ### Suvey Papers (其他方法可参考一下综述论文)
 
-19. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [['pdf'](https://arxiv.org/pdf/2210.08765)] [['code'](https://github.com/KuroginQin/OpenTLP)] 
+19. Temporal Link Prediction: A Unified Framework, Taxonomy, and Review (ACM Comput. Surv. ,2023) [[`pdf`'](https://arxiv.org/pdf/2210.08765)] [[`code`](https://github.com/KuroginQin/OpenTLP)] 
 
-20. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [['pdf'](https://arxiv.org/pdf/2502.21185)]
+20. A Survey of Link Prediction in Temporal Network (SN Computer Science, 2026) [[`pdf`'](https://arxiv.org/pdf/2502.21185)]
 
 
 
